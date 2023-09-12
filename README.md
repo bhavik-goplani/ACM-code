@@ -6,13 +6,13 @@ Welcome to the ACM Code Workshop repository! Here, you'll find a collection of i
 
 Explore a wide range of topics covered in my workshops. Feel free to dive into the materials that interest you the most:
 
-- [Version Control Systems](./workshop-title-1): Basics understanding of version control systems such as git with visualizations and exercises. Cool resources on the last slide!
+- **Version Control Systems:** Basics understanding of version control systems such as git with visualizations and exercises. Cool resources on the last slide!
 
-- [Reverse Engineering](./workshop-title-2): Unlock the art of password cracking using IDA in my Reverse Engineering Workshop. Inspired by Computerphile!
+- **Reverse Engineering:** Unlock the art of password cracking using IDA in my Reverse Engineering Workshop. Inspired by Computerphile!
 
-- [Algorithmic Thinking](./workshop-title-3): A brief introduction to the world of data structures and algorithms!
+- **Algorithmic Thinking:** A brief introduction to the world of data structures and algorithms!
 
-- [Intro to Fuzzing](./workshop-title-4): Dive into the world of software security and testing and learn how to uncover vulnerabilities in applications!
+- **Intro to Fuzzing:** Dive into the world of software security and testing and learn how to uncover vulnerabilities in applications!
 
 ## How to Use This Repository
 
